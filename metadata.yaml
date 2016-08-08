@@ -1,0 +1,42 @@
+_repo: Crusaders-of-New-FranceChronicles-of-America-Volume-4_12523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Munro, William Bennett
+    birthdate: 1875
+    deathdate: 1957
+    gutenberg_agent_id: '1530'
+    url: http://www.gutenberg.org/2009/agents/1530
+    wikipedia: http://en.wikipedia.org/wiki/William_B._Munro
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12523'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1918'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 04
+subjects:
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- GITenberg
+title: 'Crusaders of New France
+
+  A Chronicle of the Fleur-de-Lis in the Wilderness
+
+  Chronicles of America, Volume 4'
+url: http://www.gutenberg.org/ebooks/12523
